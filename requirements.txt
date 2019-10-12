@@ -1,0 +1,2 @@
+pyserial
+#asyncio_extras
